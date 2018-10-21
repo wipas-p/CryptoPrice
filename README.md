@@ -2,5 +2,5 @@
 
 For Create Html file to show cryptocurrency coins price
 
-Binance BTC/USDT
-https://www.binance.com/en/trade/BTC_USDT
+Binance BTC/USDT : https://www.binance.com/en/trade/BTC_USDT
+Cryptopia BTC/USDT : https://www.cryptopia.co.nz/Exchange?market=BTC_USDT
