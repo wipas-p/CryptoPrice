@@ -11,3 +11,4 @@ CoinMarketCap : https://coinmarketcap.com/ <br>
 
 <br>
 Compare : https://www.finnomena.com/fund/compare?fund=TMBPIPF,KT-PIF-D,KFSDIV,SCBPIND <br>
+RMF Compare : https://www.finnomena.com/fund/compare?fund=TMBAGLRMF,JB25RMF,TMBPIPRMF <br>
