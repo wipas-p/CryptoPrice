@@ -17,5 +17,5 @@ RMF Compare : https://www.finnomena.com/fund/compare?fund=TMBAGLRMF,JB25RMF,TMBP
 ```
 docker build -t cryptoweb .
 docker run -d --rm --name cryptoweb -p 80:80 cryptoweb
-update
+update test
 ```
